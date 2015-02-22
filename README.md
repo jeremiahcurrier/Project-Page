@@ -1,4 +1,3 @@
-# Project-Page
-Test Github Project Page
+# Project #1
 <br>
 http://jeremiahcurrier.github.io/project-one
